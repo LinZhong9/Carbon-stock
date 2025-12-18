@@ -1,0 +1,4 @@
+RMSE_original, 0.0481421
+Factors, citycenter.tif,DEM.tif,Evapotranspiration.tif,expressway.tif,gdp.tif,NDVI.tif,NL.tif,POP.tif,rainfall.tif,river.tif,Slope.tif,temperture.tif,trunkroad.tif,
+RMSE_noise, 0.0811962,0.203337,0.107711,0.0916208,0.0904728,0.230388,0.0572057,0.182565,0.107707,0.203839,0.127264,0.0768224,0.0750625,
+Contribution:, 0.0327481,0.153758,0.0590176,0.0430762,0.0419388,0.180559,0.00897968,0.133178,0.0590137,0.154256,0.078389,0.0284148,0.0266712,
